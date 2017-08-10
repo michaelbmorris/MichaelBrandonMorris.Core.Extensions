@@ -1,0 +1,11 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netcoreapp1.1</TargetFramework>
+    <Authors>Michael Brandon Morris</Authors>
+    <Company>Michael Brandon Morris</Company>
+    <GeneratePackageOnBuild>True</GeneratePackageOnBuild>
+    <Description>Extensions methods for System.String.</Description>
+  </PropertyGroup>
+
+</Project>
