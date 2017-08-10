@@ -6,6 +6,10 @@
     <Company>Michael Brandon Morris</Company>
     <GeneratePackageOnBuild>True</GeneratePackageOnBuild>
     <Description>Extensions methods for System.String.</Description>
+    <RepositoryUrl>https://github.com/michaelbmorris/MichaelBrandonMorris.Core.Extensions</RepositoryUrl>
+    <PackageProjectUrl>http://michaelbmorris.com/MichaelBrandonMorris.Core.Extensions/</PackageProjectUrl>
+    <PackageLicenseUrl>http://michaelbmorris.com/MichaelBrandonMorris.Core.Extensions/LICENSE.txt</PackageLicenseUrl>
+    <Version>1.0.1</Version>
   </PropertyGroup>
 
 </Project>
